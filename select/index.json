@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "違う、そうじゃない",
+  "base_artist": "Masayuki Suzuki",
+  "createdAt": "2025-12-06T03:19:31.933747Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "違う、そうじゃない",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/01_違う、そうじゃない_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "違う、そうじゃない",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/02_違う、そうじゃない_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/03_違う、そうじゃない_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "違う、そうじゃない",
+      "artist": "D-LITE",
+      "has_synced": true,
+      "path": "select/04_違う、そうじゃない_D-LITE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/05_違う、そうじゃない_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木雅之",
+      "has_synced": false,
+      "path": "select/06_違う、そうじゃない_鈴木雅之.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "違う、そうじゃない",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/07_違う、そうじゃない_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_01_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_02_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_03_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_04_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_05_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_06_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_07_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_08_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_09_違う、そうじゃない_鈴木_雅之.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "違う、そうじゃない",
+      "artist": "鈴木 雅之",
+      "has_synced": false,
+      "path": "select/pl_10_違う、そうじゃない_鈴木_雅之.txt"
+    }
+  ]
+}
